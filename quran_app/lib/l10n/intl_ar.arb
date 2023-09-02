@@ -1,0 +1,16 @@
+{
+    "@@locale" : "ar",
+    "login" : "تسجيل دخول",
+    "register" : "انشاء حساب",
+    "qiblahFinder" : "محدد القبلة",
+    "signIn" : "تسجيل دخول",
+    "usernameOrEmail" : "اسم المستخدم / البريد الالكتروني",
+    "username" : "اسم المستخدم",
+    "email" : "البريد الالكتروني",
+    "password"  : "كلمة المرور",
+    "confirmPassword"  : "تأكيد كلمة المرور",
+    "forgetPassword" : "هل نسيت كلمة المرور؟",
+    "newUser" : "مستخدم جديد؟",
+    "signUp" : "انشاء حساب",
+    "alreadyHavaAnAcoount" : "هل لديك حساب؟"
+}
